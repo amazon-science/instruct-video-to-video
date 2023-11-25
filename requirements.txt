@@ -1,0 +1,15 @@
+accelerate
+einops
+wandb
+transformers
+diffusers
+pytorch-lightning
+opencv-python
+opencv-contrib-python
+omegaconf
+open-clip-torch
+jsonlines
+albumentations
+diff-match-patch
+git+https://github.com/openai/CLIP.git
+deepspeed

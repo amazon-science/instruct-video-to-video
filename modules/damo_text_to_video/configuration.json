@@ -1,0 +1,31 @@
+{   "framework": "pytorch",
+    "task": "text-to-video-synthesis",
+    "model": {
+        "type": "latent-text-to-video-synthesis",
+        "model_args": {
+            "ckpt_clip": "open_clip_pytorch_model.bin",
+            "ckpt_unet": "text2video_pytorch_model.pth",
+            "ckpt_autoencoder": "VQGAN_autoencoder.pth",
+            "max_frames": 16,
+            "tiny_gpu": 1
+        },
+        "model_cfg": {
+            "in_dim": 4,
+            "dim": 320,
+            "y_dim": 768,
+            "context_dim": 1024,
+            "out_dim": 4,
+            "dim_mult": [1, 2, 4, 4],
+            "num_heads": 8,
+            "head_dim": 64,
+            "num_res_blocks": 2,
+            "attn_scales": [1, 0.5, 0.25],
+            "dropout": 0.1,
+            "temporal_attention": "True",
+            "use_checkpoint": "True"
+        }
+    },
+    "pipeline": {
+        "type": "latent-text-to-video-synthesis"
+    }
+}

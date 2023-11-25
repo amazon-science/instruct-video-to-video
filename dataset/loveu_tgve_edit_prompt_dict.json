@@ -1,0 +1,458 @@
+{
+  "gold-fish": {
+    "edit_style": "make the style impressionist",
+    "edit_background": "change the background to pond.",
+    "edit_object": "change goldfish to sharks.",
+    "edit_multiple": "change goldfish to koi fish, change the background to pond, change style to rainbow color scheme."
+  },
+  "drift-turn": {
+    "edit_style": "add neon lights effect",
+    "edit_background": "change racetrack to snowy road.",
+    "edit_object": "Change car to tuk tuk.",
+    "edit_multiple": "change car to truck, change racetrack to muddy off-road track, use sepia-toned style."
+  },
+  "lindy-hop": {
+    "edit_style": "Apply sepia-toned style to the photo.",
+    "edit_background": "change background to a fancy marble ballroom.",
+    "edit_object": "make the people doing breakdance.",
+    "edit_multiple": "make the people doing breakdance, change the background to marble ballroom, apply neon lights style."
+  },
+  "miami-surf": {
+    "edit_style": "change surfboards to motorcycles, add pink color to the ocean.",
+    "edit_background": "change the background to wave pool.",
+    "edit_object": "change surfboards to boogie boards, make the background a concrete skate park.",
+    "edit_multiple": "change surfboards to kayaks, change background to river, aerial view."
+  },
+  "bmx-rider": {
+    "edit_style": "Add grayscale effect to the image.",
+    "edit_background": "change background to snow covered park in Antarctica.",
+    "edit_object": "change bike to unicycle.",
+    "edit_multiple": "change bike to skateboard, change background to beach skate park, apply vintage style."
+  },
+  "dog-competition": {
+    "edit_style": "make the style high-contrast.",
+    "edit_background": "Change the background to outer space.",
+    "edit_object": "change dog to rabbit.",
+    "edit_multiple": "change Dog to Kangaroo, add black and white effect, and change the background to a park."
+  },
+  "hurdles-race": {
+    "edit_style": "Make the style Claymation.",
+    "edit_background": "add a flying saucer to the background.",
+    "edit_object": "change women to men.",
+    "edit_multiple": "change women to teddy bears, use vibrant colors style."
+  },
+  "ice-hockey": {
+    "edit_style": "make it brightly colored cyberpunk style",
+    "edit_background": "change ice rink to cracked mud floor of the Mojave desert.",
+    "edit_object": "make people to cartoon characters.",
+    "edit_multiple": "change hockey to broomball, add nighttime lighting style."
+  },
+  "judo": {
+    "edit_style": "Make the style vintage.",
+    "edit_background": "Change the background to the Grand Canyon.",
+    "edit_object": "change people to tabby cats.",
+    "edit_multiple": "change judo to jiu-jitsu, change the background to Grand Canyon, add use vintage style."
+  },
+  "juggling-selfie": {
+    "edit_style": "make the man robotic.",
+    "edit_background": "Change the location to Times Square.",
+    "edit_object": "change the juggling ball to watermelons",
+    "edit_multiple": "make the man robotic, change the location to Times Square, split-toning effect."
+  },
+  "loading": {
+    "edit_style": "make the view from a security camera",
+    "edit_background": "Change the background to a snow covered road.",
+    "edit_object": "replace box with giant Nvidia GPU.",
+    "edit_multiple": "change men to women, change box to giant Nvidia GPU, change the background to a snow-covered road."
+  },
+  "mbike-trick": {
+    "edit_style": "make the style neon color.",
+    "edit_background": "change road to frozen lake.",
+    "edit_object": "make the man doing wheelie on a bicycle.",
+    "edit_multiple": "change motorcycle to scooter, change road to frozen lake, add sepia tone."
+  },
+  "stunt": {
+    "edit_style": "make the style Vermeer painting style.",
+    "edit_background": "Change the background to a wooded field.",
+    "edit_object": "change scooter to skateboard.",
+    "edit_multiple": "change man to woman, make the style Vermeer painting style."
+  },
+  "swimmer": {
+    "edit_style": "make the style silhouette.",
+    "edit_background": "change pool to lake, make the background natural setting.",
+    "edit_object": "change man to furry rabbit",
+    "edit_multiple": "change man to furry rabbit, use vibrant colors style"
+  },
+  "trucks-race": {
+    "edit_style": "Add autumn/fall colors to the racetrack.",
+    "edit_background": "change the background to a wooden kitchen table.",
+    "edit_object": "make trucks made of wood (wooden style truck)",
+    "edit_multiple": "change trucks to monster trucks, make road a dirt track, use autumn/fall colors style"
+  },
+  "varanus-cage": {
+    "edit_style": "make the style oil painting.",
+    "edit_background": "Replace log in the background with Arizona rock.",
+    "edit_object": "change lizard to a rainbow colored squirrel.",
+    "edit_multiple": "change lizard to a rainbow colored squirrel, change log in the background to Arizona rock, make the style oil painting."
+  },
+  "basketball-players-scoring": {
+    "edit_style": "make the style vintage.",
+    "edit_background": "change the background into a street basketball playground.",
+    "edit_object": "replace the ball to a teddy bear toy.",
+    "edit_multiple": "make people playing a beach game, add black and white effect."
+  },
+  "basketball-shot": {
+    "edit_style": "make the style claymation.",
+    "edit_background": "Change the location to Mars.",
+    "edit_object": "change basketball to rocket.",
+    "edit_multiple": "change man to a woman, make the style high-contrast."
+  },
+  "squirrel-climb": {
+    "edit_style": "make the style Van Gogh.",
+    "edit_background": "change background to forest of cherry blossoms.",
+    "edit_object": "change squirrel to cute yellow leopard.",
+    "edit_multiple": "The squirrel is climbing up a tree in a wooded park, soft-focus style."
+  },
+  "airbrush-painting": {
+    "edit_style": "make the painting very realistic.",
+    "edit_background": "the man is painting a horse on a car.",
+    "edit_object": "Change horse to turtle.",
+    "edit_multiple": "change horse to turtle, make the turtle very realistic."
+  },
+  "cat-dog-play": {
+    "edit_style": "make the style soft focus.",
+    "edit_background": "change the background to grass",
+    "edit_object": "change cat to beaver, change dog to skunk.",
+    "edit_multiple": "change street to beach, add golden hour lighting style."
+  },
+  "street-instrument": {
+    "edit_style": "Add iron man style.",
+    "edit_background": "make the background indoors.",
+    "edit_object": "make the woman singing a song.",
+    "edit_multiple": "Change the location to indoors, add iron man style."
+  },
+  "dirt-road-driving": {
+    "edit_style": "add dust cloud effect.",
+    "edit_background": "Make the car is driving on a birthday cake.",
+    "edit_object": "change car to monster truck.",
+    "edit_multiple": "change car to spaceship, add rainy day and dramatic sky."
+  },
+  "circus-ball-act": {
+    "edit_style": "add spotlight effect.",
+    "edit_background": "Change the background to a field of orange poppy flowers.",
+    "edit_object": "make the person juggling balls.",
+    "edit_multiple": "change man to a panda, use claymation style."
+  },
+  "audi-snow-trail": {
+    "edit_style": "make it animation style.",
+    "edit_background": "make the car drive in desert trail.",
+    "edit_object": "change the car to BMW X5.",
+    "edit_multiple": "Add aerial view with snow-capped mountains in the background."
+  },
+  "horse-jump-canter": {
+    "edit_style": "Make the style flat design, vector art.",
+    "edit_background": "Change the background to Mars.",
+    "edit_object": "make horse canters through a dense field of cacti.",
+    "edit_multiple": "An astronaut rides a horse on Mars."
+  },
+  "mallard-duck-flight": {
+    "edit_style": "add sunset scenery.",
+    "edit_background": "Change the background to Times Square.",
+    "edit_object": "change ducks to Lawn darts",
+    "edit_multiple": "Tiny airplanes flying over scenery from Tron."
+  },
+  "daytime-crowd": {
+    "edit_style": "Make the style Minecraft.",
+    "edit_background": "Change the location to Antarctica snow wilderness.",
+    "edit_object": "make people riding bicycles.",
+    "edit_multiple": "change the background to underground cavern, artificial lighting, black and white."
+  },
+  "kitesurfing-fall": {
+    "edit_style": "make the time at night.",
+    "edit_background": "Change the background to a vat of cake frosting.",
+    "edit_object": "A person falls while kitesurfing in the water",
+    "edit_multiple": "change kitesurfing to skateboarding, change background to Grand Canyon."
+  },
+  "wetsuit-surfing": {
+    "edit_style": "add golden hour lighting.",
+    "edit_background": "change ocean to mudslide.",
+    "edit_object": "the man is doing bodyboarding.",
+    "edit_multiple": "change man to woman, make the style silhouette."
+  },
+  "salsa": {
+    "edit_style": "Add soft lighting to the scene.",
+    "edit_background": "change the location to the roof of a skyscraper with city lights in the background.",
+    "edit_object": "change people to a panda bear and a dolphin.",
+    "edit_multiple": "change the location to the roof of a skyscraper with city lights in the background, make the style vintage."
+  },
+  "eiffel-flyover": {
+    "edit_style": "add sunset.",
+    "edit_background": "add a large fireworks display.",
+    "edit_object": "Replace Eiffel Tower with Space Needle, 3D animation style.",
+    "edit_multiple": "change Eiffel Tower to Canadian National Tower, change background to martian desert"
+  },
+  "cricket-bat-practice": {
+    "edit_style": "make the style anime.",
+    "edit_background": "Change background to the moon.",
+    "edit_object": "Replace men in the back with dogs.",
+    "edit_multiple": "Change the location to the moon, replace men in the back with dogs."
+  },
+  "triple-check-knit": {
+    "edit_style": "make the style oil painting.",
+    "edit_background": "make background cozy fireplace",
+    "edit_object": "A person weaves a fancy shoe instead of cloth",
+    "edit_multiple": "A person shows weaves in front of a pile of dirty laundry, harsh lighting"
+  },
+  "volleyball": {
+    "edit_style": "Apply a subdued color palette to the image.",
+    "edit_background": "Make the background a wooded setting.",
+    "edit_object": "change volleyball to firecracker.",
+    "edit_multiple": "change volleyball to firecracker, change wall to natural setting."
+  },
+  "weightlifting-sofa": {
+    "edit_style": "make the sofa made of stained glass",
+    "edit_background": "make background the San Francisco skyline",
+    "edit_object": "change woman to man.",
+    "edit_multiple": "replace weights with car tire, make background San Francisco skyline"
+  },
+  "ski-follow": {
+    "edit_style": "make the style origami.",
+    "edit_background": "change background to tropical river.",
+    "edit_object": "change woman to polar bear.",
+    "edit_multiple": "change woman to polar bear, change background to tropical river."
+  },
+  "tighten-screws": {
+    "edit_style": "A man is loosening a screw on a bike",
+    "edit_background": "under the illumination of a flashlight at night",
+    "edit_object": "make the thing the man is fixing a skateboard.",
+    "edit_multiple": "A man is tightening a screw on a bike, surrounded by tools and spare parts."
+  },
+  "eating-pizza": {
+    "edit_style": "make pizza topping simple.",
+    "edit_background": "make background a park",
+    "edit_object": "change pizza to sandwich.",
+    "edit_multiple": "change women to man, change time to night"
+  },
+  "las-vegas-time-lapse": {
+    "edit_style": "make it daytime",
+    "edit_background": "make the city New York",
+    "edit_object": "change architectures to natural landscapes.",
+    "edit_multiple": "add a transition from night to day."
+  },
+  "warsaw-multimedia-fountain": {
+    "edit_style": "A fountain on top of a beautiful rectangular birthday cake",
+    "edit_object": "A waterfall at a park.",
+    "edit_multiple": "A fountain on top of a beautiful rectangular birthday cake, daytime, very hot day.",
+    "edit_background": "make the background a lush hillside of cherry blossoms"
+  },
+  "kettleball-training": {
+    "edit_style": "make it 2D vector animation.",
+    "edit_object": "change man to woman.",
+    "edit_multiple": "change man to woman, change the background to 1950s diner.",
+    "edit_background": "Change the background to a 1950s diner."
+  },
+  "geometric-video-background": {
+    "edit_style": "make it photorealistic with detailed textures.",
+    "edit_background": "add mountains in the background.",
+    "edit_object": "change buildings to vehicles in the array.",
+    "edit_multiple": "Add mountains in the background, make the buildings photorealistic and detailed."
+  },
+  "typewriter-super-slow-motion": {
+    "edit_style": "change the material of the typebars to solid gold.",
+    "edit_background": "change typebars to computer keyboard keys.",
+    "edit_object": "change typebars to piano keys.",
+    "edit_multiple": "change typebars to piano keys, add dramatic lighting effect."
+  },
+  "shopping-entertainment-center": {
+    "edit_style": "make it outdoor on a bright sunny day.",
+    "edit_background": "Replace the background with a desolate martian landscape.",
+    "edit_object": "change People to Cardboard boxes.",
+    "edit_multiple": "change People to Cardboard boxes, add surrounded by desolate martian landscape."
+  },
+  "surfer-on-wave": {
+    "edit_style": "change man to woman with cowboy hat.",
+    "edit_background": "Replace the wave with a wave made of aurora borealis.",
+    "edit_object": "make person dancing on the wave.",
+    "edit_multiple": "change man to woman, add sunset"
+  },
+  "basketball-mall": {
+    "edit_style": "make the man robotic.",
+    "edit_background": "Add a wildflower field in the background.",
+    "edit_object": "Replace basketball with giant apple.",
+    "edit_multiple": "A woman wearing traditional Indian clothing dunks a beach ball."
+  },
+  "raindrops": {
+    "edit_style": "Make the style expressionism.",
+    "edit_background": "Change stone pathway to pink grass lawn.",
+    "edit_object": "change rain to snow.",
+    "edit_multiple": "Snow falling on a fantasy landscape in super slow motion, with dramatic lighting."
+  },
+  "lotus": {
+    "edit_style": "make it a sunny day.",
+    "edit_background": "Add New York City in the background.",
+    "edit_object": "change lotus to poppy flower.",
+    "edit_multiple": "Add New York City in the background, make the background foggy."
+  },
+  "earth-full-view": {
+    "edit_style": "make the Earth out of chocolate.",
+    "edit_background": "add a fireworks display in the background.",
+    "edit_object": "change Earth to Mars.",
+    "edit_multiple": "Full view of the Mars as it moves slowly toward the sun, with fireworks in the background."
+  },
+  "setting-sun": {
+    "edit_style": "make it 2D vector animation.",
+    "edit_background": "make the background a clear sky.",
+    "edit_object": "change sun to a flying saucer",
+    "edit_multiple": "The moon setting with clouds moving around it, reflecting on a flooded road."
+  },
+  "cat-in-the-sun": {
+    "edit_style": "change the weather to a rainy day.",
+    "edit_background": "change the background to a beach.",
+    "edit_object": "Change cat to dog.",
+    "edit_multiple": "A red lion in the grass in the sun, surrounded by butterflies"
+  },
+  "swans": {
+    "edit_style": "make it misty morning",
+    "edit_background": "wans gliding underwater near a coral reef",
+    "edit_object": "change swans to pink flamingos.",
+    "edit_multiple": "Pink flamengos gliding over a lake, with a sunset in the background."
+  },
+  "red-roses-sunny-day": {
+    "edit_style": "Make the style origami.",
+    "edit_background": "make background to moonlight.",
+    "edit_object": "make roses rainbow colored.",
+    "edit_multiple": "make roses rainbow colored, add butterflies flying around them."
+  },
+  "singapore-airbus-a380-landing": {
+    "edit_style": "Make the airplane made out of stained glass.",
+    "edit_background": "make the weather rainy.",
+    "edit_object": "change the plane to Delta Airlines.",
+    "edit_multiple": "A stained glass style Delta Airlines Airbus A380 landing in front of aurora borealis."
+  },
+  "fireworks-display": {
+    "edit_style": "make the style 8-bit pixelated.",
+    "edit_background": "add city skyline below fireworks.",
+    "edit_object": "change fireworks display to lantern festival.",
+    "edit_multiple": "A colourful fireworks display above the city skyline, 8-bit pixelated."
+  },
+  "seagull-flying": {
+    "edit_style": "make the style impressionist.",
+    "edit_background": "make the weather cloudy.",
+    "edit_object": "change seagull to tiny airplane",
+    "edit_multiple": "A white seagull flies in a colorless blue sky, with a cityscape below."
+  },
+  "aircraft-landing": {
+    "edit_style": "Add sepia tone to the image.",
+    "edit_background": "make the weather cloudy",
+    "edit_object": "make the aircraft brightly colored and cyberpunk-themed.",
+    "edit_multiple": "A brightly colored cyberpunk aircraft descends onto the runway during a cloudless morning, with a bustling cityscape in the background."
+  },
+  "sharks-swimming": {
+    "edit_style": "make coral reef made of stained glass.",
+    "edit_background": "change background to a sandy seabed.",
+    "edit_object": "change sharks to quadrotor drones.",
+    "edit_multiple": "add various colorful fish around the sharks."
+  },
+  "bird-on-feeder": {
+    "edit_background": "make it snowy day",
+    "edit_object": "change bird to squirrel.",
+    "edit_multiple": "add blooming flowers around the feeder.",
+    "edit_style": "make the style watercolor."
+  },
+  "cows-grazing": {
+    "edit_style": "make the style pointillism.",
+    "edit_background": "Change background to yellow meadow.",
+    "edit_object": "Change cows to sheep.",
+    "edit_multiple": "change cows to sheep, add a picturesque farmhouse in the background."
+  },
+  "horizontal-match-striking": {
+    "edit_style": "make the style neon.",
+    "edit_background": "An extreme close up video of someone striking a matchstick horizontally against a pool of water.",
+    "edit_object": "change matchstick to lighter.",
+    "edit_multiple": "change matchstick to lighter, add sparks flying off."
+  },
+  "ferris-wheel-timelapse": {
+    "edit_style": "make the style oil painting.",
+    "edit_background": "Add a sunset in the background.",
+    "edit_object": "A time-lapsed video of a carousel moving.",
+    "edit_multiple": "A time-lapsed video of a carousel wheel moving with colorful lights at night."
+  },
+  "butterfly-feeding-slow-motion": {
+    "edit_style": "Make the video animation style.",
+    "edit_background": "make background a lush garden",
+    "edit_object": "change butterfly to bee.",
+    "edit_multiple": "change butterfly to bee, and make it surrounded by blooming flowers."
+  },
+  "ski-lift-time-lapse": {
+    "edit_style": "make the style crayon.",
+    "edit_background": "Add a desolate desert background.",
+    "edit_object": "A time lapse video of gondola lifts moving up and down.",
+    "edit_multiple": "A time lapse video of gondola lift chairlifts moving up and down during a snowstorm."
+  },
+  "ship-sailing": {
+    "edit_style": "Make the style 2D vector art.",
+    "edit_background": "make ship sails on lunar surface.",
+    "edit_object": "make sailboat a toy sailbot",
+    "edit_multiple": "A toy sailboat sails on the sea during sunset with a dramatic sky full of colorful clouds."
+  },
+  "deer-eating-leaves": {
+    "edit_style": "Add a grey scale filter to the image.",
+    "edit_background": "Change background to an office.",
+    "edit_object": "change leaves to watermelons.",
+    "edit_multiple": "change leaves to watermelons, and add a small stream flowing nearby"
+  },
+  "boxer-punching-towards-camera": {
+    "edit_style": "make the style watercolor.",
+    "edit_background": "add a boxing ring in the background",
+    "edit_object": "the kickboxer kicks towards the camera",
+    "edit_multiple": "make gloves orange, make the person surrounded by cheering fans in a boxing arena."
+  },
+  "sunset-beach-yoga": {
+    "edit_style": "make the style pointillism.",
+    "edit_background": "change the background to a hotel swimming pool.",
+    "edit_object": "change woman to panda.",
+    "edit_multiple": "change woman to panda, change background to hotel swimming pool,"
+  },
+  "airplane-and-contrail": {
+    "edit_style": "Apply sepia tone to the image.",
+    "edit_background": "add Taj Mahal in the image",
+    "edit_object": "change airplane to helicopter.",
+    "edit_multiple": "An airplane flies through the pink sky leaving a contrail behind it, with a flock of birds in the distance."
+  },
+  "wind-turbines-at-dusk": {
+    "edit_style": "make the style origami.",
+    "edit_background": "Wind turbines spin in an office surrounded by cubicles.",
+    "edit_object": "change wind turbines to solar panels.",
+    "edit_multiple": "Solar panels spin during dusk with a colorful sky in the background."
+  },
+  "street-artist-painting": {
+    "edit_style": "make the style anime.",
+    "edit_background": "make the background a park.",
+    "edit_object": "change woman to tortoise",
+    "edit_multiple": "A street artist uses brown paint to paint a picture of a man near a fountain, anime style."
+  },
+  "dj-mixing-music": {
+    "edit_style": "A closeup video of a DJ mixing music on a soundboard, pixelated.",
+    "edit_background": " closeup video of a DJ mixing music on a soundboard in a fancy living room.",
+    "edit_object": "A closeup video of a DJ scratching vinyl records.",
+    "edit_multiple": "A closeup video of a DJ scratching vinyl records at a beach party."
+  },
+  "american-flag-in-wind": {
+    "edit_style": "make the style expressionist.",
+    "edit_background": "add mountains in the background.",
+    "edit_object": "change American flag to Canadian flag.",
+    "edit_multiple": "change American flag to Canadian flag, make background a beach"
+  },
+  "sunset-swinging": {
+    "edit_style": "Make the style vintage.",
+    "edit_background": "add a flying saucer in the background",
+    "edit_object": "Change ocean to snow covered road.",
+    "edit_multiple": "Add a flying saucer in the background, and make the style vintage."
+  },
+  "pouring-beer-from-bottle": {
+    "edit_style": "Make the style claymation.",
+    "edit_background": "Add a treehouse in the background",
+    "edit_object": "A bottle of wine is poured into a goblet.",
+    "edit_multiple": "A bottle of wine is poured into a glass at a party, claymation style."
+  }
+}
