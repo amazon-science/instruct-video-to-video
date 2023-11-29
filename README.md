@@ -9,6 +9,9 @@
 * [Training](#training)
 * [Create Synthetic Video Dataset](#create-synthetic-video-dataset)
 
+## Updates
+* 2023/11/29: We have updated paper with more comparison to recent baseline methods and updated the [comparison video](#visual-comparison-to-other-methods). Gradio demo code is uploaded, model still under release process.
+
 ## Installation
 ```bash
 git clone [this repository]
@@ -127,6 +130,15 @@ python video_prompt_to_prompt.py
     --prompt_source [ip2p or webvid] \
     --num_sample_each_prompt [NUM SAMPLES FOR EACH PROMPT]
 ```
+
+## Visual Comparison to Other Methods
+[Visual Comparison to Other Methods](figures/videos/TGVE_video_edit_demo.mp4)
+
+Links to the baselines used in the video:
+
+[Tune-A-Video](https://github.com/showlab/Tune-A-Video) | [Control Video](https://github.com/thu-ml/controlvideo) | [Vid2Vid Zero](https://github.com/baaivision/vid2vid-zero) | [Video P2P](https://github.com/ShaoTengLiu/Video-P2P)
+
+[TokenFlow](https://github.com/omerbt/TokenFlow) | [Render A Video](https://github.com/williamyang1991/Rerender_A_Video) | [Pix2Video](https://github.com/duyguceylan/pix2video)
 
 ## Credit
 The code was implemented by [Jiaxin Cheng](https://github.com/cplusx) during his internship at the AWS Shanghai Lablet.
