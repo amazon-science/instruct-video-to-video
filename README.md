@@ -134,14 +134,6 @@ python video_prompt_to_prompt.py
 ## Visual Comparison to Other Methods
 
 [![compare to baselines](https://img.youtube.com/vi/3w2-YH6C5KM/maxresdefault.jpg)](https://youtu.be/3w2-YH6C5KM)
-<video width="720" controls>
-  <source src="figures/videos/TGVE_video_edit.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video width="720" controls>
-  <source src="https://youtu.be/3w2-YH6C5KM" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 Links to the baselines used in the video:
 
