@@ -133,7 +133,7 @@ python video_prompt_to_prompt.py
 
 ## Visual Comparison to Other Methods
 
-![compare to baselines](figures/videos/TGVE_video_edit.mp4)
+[![ompare to baselines](https://img.youtube.com/vi/3w2-YH6C5KM/maxresdefault.jpg)](https://youtu.be/3w2-YH6C5KM)
 
 Links to the baselines used in the video:
 
