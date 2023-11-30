@@ -133,13 +133,14 @@ python video_prompt_to_prompt.py
 
 ## Visual Comparison to Other Methods
 
-[![compare to baselines](https://img.youtube.com/vi/3w2-YH6C5KM/maxresdefault.jpg)](https://youtu.be/3w2-YH6C5KM)
+https://github.com/amazon-science/instruct-video-to-video/assets/20940184/d3619652-dd75-41a0-92b4-345bbf57de40
+
 
 Links to the baselines used in the video:
 
-[Tune-A-Video](https://github.com/showlab/Tune-A-Video) | [Control Video](https://github.com/thu-ml/controlvideo) | [Vid2Vid Zero](https://github.com/baaivision/vid2vid-zero) | [Video P2P](https://github.com/ShaoTengLiu/Video-P2P)
+｜ [Tune-A-Video](https://github.com/showlab/Tune-A-Video) | [Control Video](https://github.com/thu-ml/controlvideo) | [Vid2Vid Zero](https://github.com/baaivision/vid2vid-zero) | [Video P2P](https://github.com/ShaoTengLiu/Video-P2P) ｜
 
-[TokenFlow](https://github.com/omerbt/TokenFlow) | [Render A Video](https://github.com/williamyang1991/Rerender_A_Video) | [Pix2Video](https://github.com/duyguceylan/pix2video)
+｜ [TokenFlow](https://github.com/omerbt/TokenFlow) | [Render A Video](https://github.com/williamyang1991/Rerender_A_Video) | [Pix2Video](https://github.com/duyguceylan/pix2video) ｜
 
 ## Credit
 The code was implemented by [Jiaxin Cheng](https://github.com/cplusx) during his internship at the AWS Shanghai Lablet.
