@@ -133,8 +133,7 @@ python video_prompt_to_prompt.py
 
 ## Visual Comparison to Other Methods
 
-<video src='figures/videos/TGVE_video_edit.mp4' width=512/>
-
+![Visual Comparison to Other Methods](figures/videos/TGVE_video_edit.mp4)
 
 Links to the baselines used in the video:
 
