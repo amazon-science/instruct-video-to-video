@@ -132,7 +132,11 @@ python video_prompt_to_prompt.py
 ```
 
 ## Visual Comparison to Other Methods
-[Visual Comparison to Other Methods](figures/videos/TGVE_video_edit_demo.mp4)
+<video controls>
+  <source src="figures/videos/TGVE_video_edit_demo.mp4" type="video/mp4">
+  Visual Comparison to Other Methods
+</video>
+
 
 Links to the baselines used in the video:
 
