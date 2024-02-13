@@ -10,7 +10,7 @@
 * [Create Synthetic Video Dataset](#create-synthetic-video-dataset)
 
 ## Updates
-* 2024/02/13: The official synthetic data and model will not be released due to Amazon policy, but we provide a third party reproduction of the synthetic data and model weights. Please refer to the (repo)[https://github.com/cplusx/INSV2V-3rd-pty-reprod]
+* 2024/02/13: The official synthetic data and model will not be released due to Amazon policy, but we provide a third party reproduction of the synthetic data and model weights. Please refer to this [github repo](https://github.com/cplusx/INSV2V-3rd-pty-reprod)
 * 2023/11/29: We have updated paper with more comparison to recent baseline methods and updated the [comparison video](#visual-comparison-to-other-methods). Gradio demo code is uploaded.
 
 ## Installation
