@@ -1,4 +1,4 @@
-## This is the code release for the paper [Consistent Video-to-Video Transfer Using Synthetic Dataset](https://arxiv.org/abs/2311.00213).
+## This is the code release for the ICLR2024 paper [Consistent Video-to-Video Transfer Using Synthetic Dataset](https://arxiv.org/abs/2311.00213).
 
 ![teaser](figures/teaser.png)
 
@@ -10,18 +10,19 @@
 * [Create Synthetic Video Dataset](#create-synthetic-video-dataset)
 
 ## Updates
-* 2023/11/29: We have updated paper with more comparison to recent baseline methods and updated the [comparison video](#visual-comparison-to-other-methods). Gradio demo code is uploaded, model still under release process.
+* 2024/02/13: The official synthetic data and model will not be released due to Amazon policy, but we provide a third party reproduction of the synthetic data and model weights. Please refer to the (repo)[https://github.com/cplusx/INSV2V-3rd-pty-reprod]
+* 2023/11/29: We have updated paper with more comparison to recent baseline methods and updated the [comparison video](#visual-comparison-to-other-methods). Gradio demo code is uploaded.
 
 ## Installation
 ```bash
-git clone [this repository]
+git clone https://github.com/amazon-science/instruct-video-to-video.git
 pip install -r requirements.txt
 ```
 NOTE: The code is tested on PyTorch 2.1.0+cu11.8 and corresponding xformers version. Any PyTorch version > 2.0 should work but please install the right corresponding xformers version.
 ## Video Editing
 We are undergoing the model release process. Please stay tuned.
 
-Download the [InsV2V model weights (To be released)]() and change the ckpt path in the following notebook.
+Download the [InsV2V model weights](https://github.com/cplusx/INSV2V-3rd-pty-reprod) and change the ckpt path in the following notebook.
 
 ✨🚀 This [notebook](video_edit.ipynb) provide a sample code to conduct text-based video editing.
 
@@ -101,8 +102,7 @@ Examples of the synthetic video dataset:
 [Download](https://drive.google.com/file/d/1R9sWsnGZUa5P8IB5DDfD9eU-T9SQLsFw/view?usp=sharing) the foundational models and place them in the `pretrained_models` folder.
 
 ### Download Synthetic Video Dataset
-We are still undergoing the dataset release process. Please stay tuned. 
-[To be released]()
+[See download link in the third party reproduction](https://github.com/cplusx/INSV2V-3rd-pty-reprod)
 
 ### Train the Model
 Put the synthetic video dataset in the `video_ptp` folder.
